@@ -1,0 +1,127 @@
+
+
+body{
+  background: url("images/im9-2.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-family: Arial, verdana, sans-serif;
+  font-size: 15px;
+  font-weight:normal;;
+  color: #fff;
+}
+
+.header-row a {
+  color: white;
+  text-decoration: none;
+}
+
+.oneops-logo {
+  color: white
+}
+
+#right-top-login {
+  position: absolute;
+  top: 10px;
+  right: 200px;
+}
+
+#right-top-signup {
+  position: absolute;
+  top: 10px;
+  right: 140px;
+}
+
+#top-left-oneops-link {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}
+
+#bottom-left-copyright {
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+}
+
+#top-center-oneopsadmin {
+  position: absolute;
+  top: 10px;
+  left: 1250px;
+}
+/*#top-gradient {
+  background: #eee;
+  background: linear-gradient(transparent,rgba(0,0,0,.05) 40%,rgba(0,0,0,.1));
+  border-radius: 36px;
+  height: 30px;
+}*/
+/*#header, #footer {
+  color: #fff;
+  padding: 20px;
+  margin: 10px
+}*/
+/*html, body{
+  background: url("images/im9-2.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+div {
+  background: #eee;
+  background: linear-gradient(transparent,rgba(0,0,0,.05) 40%,rgba(0,0,0,.1));
+  border-radius: 36px;
+  height: 30px;
+}
+
+
+/*.content {
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  color: #fff;
+  margin: 40px auto;
+  background: rgba(22,22,22, 0.5);
+  width: 100%;
+  max-width: 960px;
+  border-radius: 5px;
+  padding-bottom: 32px;
+}
+
+background:#eee linear-gradient(transparent,rgba(0,0,0,.05) 40%,rgba(0,0,0,.1))}
+
+h1, h1 a {
+  min-height: 120px;
+  width: 90%;
+  max-width: 700px;
+  vertical-align: middle;
+  text-align: center;
+  margin: 0 auto;
+  text-decoration: none;
+  color: #fff;
+  padding-top: 80px;
+}
+
+p,tr,td {
+  width: 90%;
+  max-width: 700px;
+  text-align: left;
+  margin: 0 auto;
+  padding-bottom: 32px;
+  color: #fff;
+}
+
+a {
+  min-height: 120px;
+  width: 90%;
+  max-width: 700px;
+  vertical-align: middle;
+  text-align: center;
+  margin: 0 auto;
+  text-decoration: none;
+  color: #fff;
+  font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%
+  padding-top: 80px;
+}
+*/
